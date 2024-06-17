@@ -46,6 +46,7 @@ Visit https://ui.nuxt.com to explore the documentation.
 
 ## Credits
 
+- [nuxt ui](https://ui.nuxt.com)
 - [nuxt/nuxt](https://github.com/nuxt/nuxt)
 - [nuxt-modules/color-mode](https://github.com/nuxt-modules/color-mode)
 - [nuxt-modules/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
